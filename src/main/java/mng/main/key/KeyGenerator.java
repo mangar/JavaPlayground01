@@ -56,7 +56,7 @@ public class KeyGenerator {
     public String describeToFile(Map<String, String> content) {
         String output = describe(content);
         try {
-            BufferedWriter writer = new BufferedWriter(new FileWriter("KeyGenerator.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("./_output/KeyGenerator.txt"));
             writer.write( output );
             writer.close();
         } catch (IOException ioe) {

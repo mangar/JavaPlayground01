@@ -18,7 +18,7 @@ public class MainGenerateYAML {
 
         // write to a file
         // >>>>>>>>>>>>>>>>>
-        mapper.writeValue(new File("./orders.yaml"), orders);
+        mapper.writeValue(new File("./_output/orders.yaml"), orders);
         // <<<<<<<<<<<<<<<<<
 
 

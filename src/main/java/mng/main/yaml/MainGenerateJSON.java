@@ -18,7 +18,7 @@ public class MainGenerateJSON {
 
         // write to a file
         // >>>>>>>>>>>>>>>>>
-        mapper.writeValue(new File("./orders.json"), orders);
+        mapper.writeValue(new File("./_output/orders.json"), orders);
         // <<<<<<<<<<<<<<<<<
 
 
