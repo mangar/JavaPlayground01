@@ -1,0 +1,24 @@
+#
+# CARRO:
+#
+# https://www.webmotors.com.br/comprar       /honda/fit/15-ex-16v-flex-4p-automatico/4-portas/2014-2015/43612913
+# https://www.webmotors.com.br/api/detail/car/honda/fit/15-ex-16v-flex-4p-automatico/4-portas/2014-2015/43612913
+#
+# MOTO:
+#
+# https://www.webmotors.com.br/comprar/harley-davidson/sportster-xl-883n-iron/883cc/2014-2015/{ID}
+# https://www.webmotors.com.br/api/detail/averageprice/bike/{ID}
+#
+#
+# Formato: ID, URL API
+#
+
+# HONDA FIT
+221106.01.HondaFit,https://www.webmotors.com.br/api/detail/car/honda/fit/15-lx-16v-flex-4p-automatico/4-portas/2017-2018/44121339
+221106.02.HondaFit,https://www.webmotors.com.br/api/detail/car/honda/fit/15-ex-16v-flex-4p-automatico/4-portas/2017-2018/43105126
+221106.03.HondaFit,https://www.webmotors.com.br/api/detail/car/honda/fit/15-personal-16v-flex-4p-automatico/4-portas/2018-2019/44061522
+221106.04.HondaFit,https://www.webmotors.com.br/api/detail/car/honda/fit/15-ex-16v-flex-4p-automatico/4-portas/2015-2016/44025024
+221106.05.HondaFit,https://www.webmotors.com.br/api/detail/car/honda/fit/15-ex-16v-flex-4p-automatico/0-portas/2014-2015/44169949
+
+# MOTOS
+# 221106.bike.01,https://www.webmotors.com.br/api/detail/averageprice/bike/1696153

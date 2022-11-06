@@ -1,0 +1,81 @@
+[2022-11-06 18:48:27]>>>>>>>>>> Web Scrapping Starts
+[2022-11-06 18:48:28][221106.01.HondaFit]
+[2022-11-06 18:48:28]1. Getting content
+[2022-11-06 18:48:29]2. Saving content locally
+[2022-11-06 18:48:29]3. Building JSON Object
+[2022-11-06 18:48:29]4. Registering scrapping
+[2022-11-06 18:48:29][221106.02.HondaFit]
+[2022-11-06 18:48:29]1. Getting content
+[2022-11-06 18:48:29]2. Saving content locally
+[2022-11-06 18:48:29]3. Building JSON Object
+[2022-11-06 18:48:29]4. Registering scrapping
+[2022-11-06 18:48:29][221106.03.HondaFit]
+[2022-11-06 18:48:29]1. Getting content
+[2022-11-06 18:48:30]2. Saving content locally
+[2022-11-06 18:48:30]3. Building JSON Object
+[2022-11-06 18:48:30]4. Registering scrapping
+[2022-11-06 18:48:30][221106.04.HondaFit]
+[2022-11-06 18:48:30]1. Getting content
+[2022-11-06 18:48:31]2. Saving content locally
+[2022-11-06 18:48:31]3. Building JSON Object
+[2022-11-06 18:48:31]4. Registering scrapping
+[2022-11-06 18:48:31][221106.05.HondaFit]
+[2022-11-06 18:48:31]1. Getting content
+[2022-11-06 18:48:33]2. Saving content locally
+[2022-11-06 18:48:33]3. Building JSON Object
+[2022-11-06 18:48:33]4. Registering scrapping
+[2022-11-06 18:48:33]<<<<<<<<<< Web Scrapping Finished
+[2022-11-06 18:49:46]>>>>>>>>>> Web Scrapping Starts
+[2022-11-06 18:49:46][221106.01.HondaFit]
+[2022-11-06 18:49:46]1. Getting content
+[2022-11-06 18:49:47]2. Saving content locally
+[2022-11-06 18:49:47]3. Building JSON Object
+[2022-11-06 18:49:47]4. Registering scrapping
+[2022-11-06 18:49:47][221106.02.HondaFit]
+[2022-11-06 18:49:47]1. Getting content
+[2022-11-06 18:49:48]2. Saving content locally
+[2022-11-06 18:49:48]3. Building JSON Object
+[2022-11-06 18:49:48]4. Registering scrapping
+[2022-11-06 18:49:48][221106.03.HondaFit]
+[2022-11-06 18:49:48]1. Getting content
+[2022-11-06 18:49:48]2. Saving content locally
+[2022-11-06 18:49:48]3. Building JSON Object
+[2022-11-06 18:49:48]4. Registering scrapping
+[2022-11-06 18:49:48][221106.04.HondaFit]
+[2022-11-06 18:49:48]1. Getting content
+[2022-11-06 18:49:49]2. Saving content locally
+[2022-11-06 18:49:49]3. Building JSON Object
+[2022-11-06 18:49:49]4. Registering scrapping
+[2022-11-06 18:49:49][221106.05.HondaFit]
+[2022-11-06 18:49:49]1. Getting content
+[2022-11-06 18:49:49]2. Saving content locally
+[2022-11-06 18:49:49]3. Building JSON Object
+[2022-11-06 18:49:49]4. Registering scrapping
+[2022-11-06 18:49:49]<<<<<<<<<< Web Scrapping Finished
+[2022-11-06 18:55:44]>>>>>>>>>> Web Scrapping Starts
+[2022-11-06 18:55:44][221106.01.HondaFit]
+[2022-11-06 18:55:44]1. Getting content
+[2022-11-06 18:55:45]2. Saving content locally
+[2022-11-06 18:55:45]3. Building JSON Object
+[2022-11-06 18:55:45]4. Registering scrapping
+[2022-11-06 18:55:45][221106.02.HondaFit]
+[2022-11-06 18:55:45]1. Getting content
+[2022-11-06 18:55:46]2. Saving content locally
+[2022-11-06 18:55:46]3. Building JSON Object
+[2022-11-06 18:55:46]4. Registering scrapping
+[2022-11-06 18:55:46][221106.03.HondaFit]
+[2022-11-06 18:55:46]1. Getting content
+[2022-11-06 18:55:47]2. Saving content locally
+[2022-11-06 18:55:47]3. Building JSON Object
+[2022-11-06 18:55:47]4. Registering scrapping
+[2022-11-06 18:55:47][221106.04.HondaFit]
+[2022-11-06 18:55:47]1. Getting content
+[2022-11-06 18:55:47]2. Saving content locally
+[2022-11-06 18:55:47]3. Building JSON Object
+[2022-11-06 18:55:47]4. Registering scrapping
+[2022-11-06 18:55:47][221106.05.HondaFit]
+[2022-11-06 18:55:47]1. Getting content
+[2022-11-06 18:55:48]2. Saving content locally
+[2022-11-06 18:55:48]3. Building JSON Object
+[2022-11-06 18:55:48]4. Registering scrapping
+[2022-11-06 18:55:48]<<<<<<<<<< Web Scrapping Finished
