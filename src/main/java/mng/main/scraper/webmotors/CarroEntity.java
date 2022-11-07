@@ -23,7 +23,16 @@ public class CarroEntity {
     }
 
     public String getURL() {
-        return URL;
+
+        String newUrl = this.URL.replace("comprar", "api/detail/car");
+
+        int pos = newUrl.indexOf("?");
+        if (pos > 0) {
+            newUrl = newUrl.substring(0, pos);
+        }
+
+
+        return newUrl;
     }
 
     public void setURL(String URL) {
