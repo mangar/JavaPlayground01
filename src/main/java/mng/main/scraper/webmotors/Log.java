@@ -1,5 +1,7 @@
 package mng.main.scraper.webmotors;
 
+import com.github.javafaker.Bool;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -13,6 +15,8 @@ import java.util.Date;
 import java.util.List;
 
 public class Log {
+
+    public static final boolean DEBUG = true;
 
     public static final String BASE_OUTPUT_DIR = "./_output/webmotors/";
 
@@ -40,6 +44,38 @@ public class Log {
         }
     }
 
+
+    public static void logDebug (final String content) {
+
+        if (DEBUG) {
+
+            String filePathAndName = BASE_OUTPUT_DIR + "log.txt";
+            Path path = Paths.get(filePathAndName);
+            File f = new File(filePathAndName);
+
+            SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+            String dateTime = dateFormat.format(new Date()).toString();
+
+            StringBuffer newContent = new StringBuffer()
+                    .append("[").append(dateTime).append("][DEBUG]")
+                    .append(content);
+
+            //---
+            System.out.println(newContent);
+
+            newContent.append(System.lineSeparator());
+
+            try {
+                if (!f.exists()) {
+                    Files.write(path, newContent.toString().getBytes(), StandardOpenOption.CREATE);
+                } else {
+                    Files.write(path, newContent.toString().getBytes(), StandardOpenOption.APPEND);
+                }
+            } catch (Exception e) {
+                System.out.println("!! ERROR!! " + e.toString());
+            }
+        }
+    }
 
 
 }
