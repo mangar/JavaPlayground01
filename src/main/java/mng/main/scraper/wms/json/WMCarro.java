@@ -1,6 +1,4 @@
-package mng.main.scraper.webmotors.json;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
+package mng.main.scraper.wms.json;
 
 public class WMCarro {
 

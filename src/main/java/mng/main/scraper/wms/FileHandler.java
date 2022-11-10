@@ -1,6 +1,6 @@
-package mng.main.scraper.webmotors;
+package mng.main.scraper.wms;
 
-import mng.main.scraper.webmotors.json.WMCarro;
+import mng.main.scraper.wms.json.WMCarro;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,8 +16,8 @@ import java.util.List;
 
 public class FileHandler {
 
-    public static final String BASE_OUTPUT_DIR = "./_output/webmotors/";
-    public static final String BASE_INPUT_DIR = "./_input/webmotors/";
+    public static final String BASE_OUTPUT_DIR = "./_output/wm/";
+    public static final String BASE_INPUT_DIR = "./_input/wm/";
 
     public static List<CarroEntity> getCarros() throws IOException {
         List<String> allLines = Files.readAllLines(Paths.get(BASE_INPUT_DIR + "carros.txt"));
@@ -80,7 +80,7 @@ public class FileHandler {
 
 
     public static void registerScrapping(final WMCarro wmCarro) throws IOException {
-        String filePathAndName = BASE_OUTPUT_DIR + "webmotors.csv";
+        String filePathAndName = BASE_OUTPUT_DIR + "wm.csv";
         Path path = Paths.get(filePathAndName);
         File f = new File(filePathAndName);
 

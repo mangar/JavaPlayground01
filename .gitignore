@@ -43,3 +43,4 @@ bin/
 
 *_content.json
 *.csv
+_output/wm/*

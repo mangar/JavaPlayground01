@@ -1,14 +1,13 @@
-package mng.main.scraper.webmotors;
+package mng.main.scraper.wms;
 
-import mng.main.scraper.webmotors.json.WMCarro;
-import mng.main.scraper.webmotors.json.WMCarroBuilder;
+import mng.main.scraper.wms.json.WMCarro;
+import mng.main.scraper.wms.json.WMCarroBuilder;
 import org.eclipse.jetty.client.HttpClient;
 import org.eclipse.jetty.client.api.ContentResponse;
 import org.eclipse.jetty.http.HttpField;
 import org.eclipse.jetty.http.HttpHeader;
 
 import java.io.IOException;
-import java.util.Random;
 
 public class WMScrapper {
 

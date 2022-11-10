@@ -1,6 +1,4 @@
-package mng.main.scraper.webmotors;
-
-import com.github.javafaker.Bool;
+package mng.main.scraper.wms;
 
 import java.io.File;
 import java.io.IOException;
@@ -9,16 +7,13 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
-import java.util.List;
 
 public class Log {
 
     public static final boolean DEBUG = true;
 
-    public static final String BASE_OUTPUT_DIR = "./_output/webmotors/";
+    public static final String BASE_OUTPUT_DIR = "./_output/wm/";
 
     public static void log (final String content) throws IOException {
         String filePathAndName = BASE_OUTPUT_DIR + "log.txt";

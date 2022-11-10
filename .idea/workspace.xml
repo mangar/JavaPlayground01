@@ -6,23 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="02c99726-599f-491e-b6be-1a0fc0e8082a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_input/webmotors/carros.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_input/webmotors/carros.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.01.HondaFit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.01.HondaFit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.01.HondaFit_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.01.HondaFit_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.02.HondaFit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.02.HondaFit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.02.HondaFit_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.02.HondaFit_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.03.HondaFit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.03.HondaFit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.03.HondaFit_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.03.HondaFit_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.04.HondaFit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.04.HondaFit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.04.HondaFit_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.04.HondaFit_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.05.HondaFit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.05.HondaFit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/221106.05.HondaFit_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/221106.05.HondaFit_content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_output/webmotors/webmotors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_output/webmotors/webmotors.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/CarroEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/CarroEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/WMScrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/WMScrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_input/webmotors/carros.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_input/wm/carros.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_input/webmotors/json.json" beforeDir="false" afterPath="$PROJECT_DIR$/_input/wm/json.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_output/webmotors/webmotors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/CarroEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/CarroEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/HttpHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/HttpHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/WMScrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/WMScrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/json/WMCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/json/WMCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mng/main/scraper/webmotors/json/WMCarroBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mng/main/scraper/wms/json/WMCarroBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mng/main/scraper/webmotors/CarroEntityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mng/main/scraper/wms/CarroEntityTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +62,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -100,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="WMScrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mng.main.scraper.webmotors.WMScrapper" />
+      <option name="MAIN_CLASS_NAME" value="mng.main.scraper.wms.WMScrapper" />
       <module name="WebScrapper01.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mng.main.scraper.webmotors.*" />
+          <option name="PATTERN" value="mng.main.scraper.wms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,10 +180,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WMScrapper" />
         <item itemvalue="Gradle.CarroEntityTest" />
         <item itemvalue="Gradle.CarroEntityTest.getURL_API" />
         <item itemvalue="Gradle.CarroEntityTest.getURL" />
-        <item itemvalue="Application.WMScrapper" />
         <item itemvalue="Application.MainGenerateYAML" />
       </list>
     </recent_temporary>

@@ -1,4 +1,4 @@
-package mng.main.scraper.webmotors;
+package mng.main.scraper.wms;
 
 public class CarroEntity {
 

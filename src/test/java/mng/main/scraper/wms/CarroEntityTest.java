@@ -1,4 +1,4 @@
-package mng.main.scraper.webmotors;
+package mng.main.scraper.wms;
 
 import org.junit.jupiter.api.Test;
 

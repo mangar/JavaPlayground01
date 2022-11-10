@@ -1,4 +1,4 @@
-package mng.main.scraper.webmotors.json;
+package mng.main.scraper.wms.json;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
